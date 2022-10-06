@@ -1,2 +1,2 @@
-# git-course
-Curso de Git e Github
+# controle-tarefas
+Projeto curso Laravel avançado (Udemy)
